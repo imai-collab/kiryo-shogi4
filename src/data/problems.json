@@ -3,19 +3,19 @@
     "id": 1,
     "title": "第1問",
     "description": "ファイルから追加された問題です。",
-    "initialSfen": "5R3/8k/7p1/6n2/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
+    "initialSfen": "5R3/8k/7p1/6N2/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
   },
   {
     "id": 2,
     "title": "第2問",
     "description": "ファイルから追加された問題です。",
-    "initialSfen": "5r3/8k/9/6n2/9/9/9/9/9 b Gr2b3g4s3n4l18p 1"
+    "initialSfen": "5R3/8k/9/6N2/9/9/9/9/9 b Gr2b3g4s3n4l18p 1"
   },
   {
     "id": 3,
     "title": "第3問",
     "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/6Bk1/5S3/9/9/9/9/9/9 b G2rb3g3s4n4l18p 1"
+    "initialSfen": "9/7Bk/6S2/9/9/9/9/9/9 b G2rb3g3s4n4l18p 1"
   },
   {
     "id": 4,
@@ -63,13 +63,13 @@
     "id": 11,
     "title": "第11問",
     "description": "ファイルから追加された問題です。",
-    "initialSfen": "5Bg2/8k/9/7pp/6N2/9/9/9/9 b G2rb2g4s3n4l16p 1"
+    "initialSfen": "5Bg2/8k/9/7pp/7N1/9/9/9/9 b G2rb2g4s3n4l16p 1"
   },
   {
     "id": 12,
     "title": "第12問",
     "description": "ファイルから追加された問題です。",
-    "initialSfen": "7G1/8k/9/7pp/6N2/9/9/9/9 b GS2r2b2g3s3n4l16p 1"
+    "initialSfen": "7g1/8k/9/7pp/6N2/9/9/9/9 b GS2r2b2g3s3n4l16p 1"
   },
   {
     "id": 13,
@@ -300,3 +300,4 @@
     "initialSfen": "8l/6Bgk/6n1p/4B4/9/9/9/9/9 b S2r3g3s3n3l17p 1"
   }
 ]
+// Updated explicitly for GitHub Export
